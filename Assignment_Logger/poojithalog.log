@@ -1,0 +1,36 @@
+2020-03-13 10:46:46 INFO  MyClass:31 -24000.0
+2020-03-13 10:46:46 INFO  MyClass:40 -30000.0
+2020-03-13 10:46:46 INFO  MyClass:51 -36000.0
+2020-03-13 10:46:46 ERROR MyClass:52 -There will be corrrection
+2020-03-13 10:46:46 WARN  MyClass:53 -there is something wrong in code
+2020-03-13 10:46:46 FATAL MyClass:54 -there is any case of abort
+2020-03-13 10:46:46 INFO  MyClass:51 -50000.0
+2020-03-13 10:46:46 ERROR MyClass:52 -There will be corrrection
+2020-03-13 10:46:46 WARN  MyClass:53 -there is something wrong in code
+2020-03-13 10:46:46 FATAL MyClass:54 -there is any case of abort
+2020-03-13 10:46:46 INFO  MyClass:18 -36702.400462486534
+2020-03-13 10:46:46 ERROR MyClass:19 -There will be corrrection
+2020-03-13 10:46:46 WARN  MyClass:20 -there is something wrong in code
+2020-03-13 10:46:46 FATAL MyClass:21 -there is any case of abort
+2020-03-13 10:46:46 INFO  MyClass:10 -5400.0
+2020-03-13 10:46:46 ERROR MyClass:11 -There will be corrrection
+2020-03-13 10:46:46 WARN  MyClass:12 -there is something wrong in code
+2020-03-13 10:46:46 FATAL MyClass:13 -there is any case of abort
+2020-03-13 11:01:05 INFO  MyClass:31 -24000.0
+2020-03-13 11:01:05 INFO  MyClass:40 -30000.0
+2020-03-13 11:01:05 INFO  MyClass:51 -36000.0
+2020-03-13 11:01:05 ERROR MyClass:52 -There will be corrrection
+2020-03-13 11:01:05 WARN  MyClass:53 -there is something wrong in code
+2020-03-13 11:01:05 FATAL MyClass:54 -there is any case of abort
+2020-03-13 11:01:05 INFO  MyClass:51 -50000.0
+2020-03-13 11:01:05 ERROR MyClass:52 -There will be corrrection
+2020-03-13 11:01:05 WARN  MyClass:53 -there is something wrong in code
+2020-03-13 11:01:05 FATAL MyClass:54 -there is any case of abort
+2020-03-13 11:01:05 INFO  MyClass:18 -36702.400462486534
+2020-03-13 11:01:05 ERROR MyClass:19 -There will be corrrection
+2020-03-13 11:01:05 WARN  MyClass:20 -there is something wrong in code
+2020-03-13 11:01:05 FATAL MyClass:21 -there is any case of abort
+2020-03-13 11:01:05 INFO  MyClass:10 -5400.0
+2020-03-13 11:01:05 ERROR MyClass:11 -There will be corrrection
+2020-03-13 11:01:05 WARN  MyClass:12 -there is something wrong in code
+2020-03-13 11:01:05 FATAL MyClass:13 -there is any case of abort
